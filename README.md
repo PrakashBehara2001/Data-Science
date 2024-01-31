@@ -1,2 +1,2 @@
-# Loan-Prediction
-Predicting the eligibility of Loan for a person
+# Data Science
+Creating Machine Learning models using Statistical methods.
